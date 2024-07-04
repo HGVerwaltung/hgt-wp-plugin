@@ -1,0 +1,37 @@
+
+@media only screen and (max-width: 1260px) { 
+	 .hg-manager-kalender-table td:nth-child(6),
+	 .hg-manager-kalender-table th:nth-child(6),  
+	 .hg-manager-kalender-table td:nth-child(7),
+	 .hg-manager-kalender-table th:nth-child(7)
+	 {display: none;}
+}
+
+@media only screen and (max-width: 830px) { 
+	 .hg-manager-kalender-table td:nth-child(5),
+	 .hg-manager-kalender-table th:nth-child(5),
+	 .hg-manager-kalender-table td:nth-child(6),
+	 .hg-manager-kalender-table th:nth-child(6),  
+	 .hg-manager-kalender-table td:nth-child(7),
+	 .hg-manager-kalender-table th:nth-child(7)
+	 {display: none;}
+}
+
+ 
+@media only screen and (max-width: 640px) {
+	
+	 .hg-manager-kalender-table td:nth-child(3),
+	 .hg-manager-kalender-table th:nth-child(3), 
+	 .hg-manager-kalender-table td:nth-child(5),
+	 .hg-manager-kalender-table th:nth-child(5),
+	 .hg-manager-kalender-table td:nth-child(6),
+	 .hg-manager-kalender-table th:nth-child(6),  
+	 .hg-manager-kalender-table td:nth-child(7),
+	 .hg-manager-kalender-table th:nth-child(7)
+	 {display: none;}
+	 
+
+}
+.column-ka_titel{
+	width:300px;
+}
